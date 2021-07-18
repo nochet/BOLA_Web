@@ -40,3 +40,5 @@ design:
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
+
+See [my Google Scholar page](https://scholar.google.com/citations?user=58aTNpUAAAAJ&hl=en) for an up-to-date list of the lab's publications.
