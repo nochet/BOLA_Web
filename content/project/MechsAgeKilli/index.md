@@ -1,8 +1,8 @@
 ---
-title: "Experimental evolution of flexible allocation strategies"
+title: "1.	Mechanisms of differential aging rates in natural populations"
 summary: " "
 abstract: ""
-date: 2020-01-01
+date: 2021-09-01
 image: 
   caption: ''
   focal_point: Smart
@@ -17,12 +17,10 @@ To understand the agents and genomic targets of selection on aging rate in wild 
 Within and among species, African killifish differ widely in longevity and aging-associated traits based on climatic regions. The starting point in understanding underlying mechanisms for these differences is to investigate at a nuanced level, the environmental the factors that cue for variation in the response of aging rate in the wild. The BOLA Lab uses longitudinal ecological studies to associate water quality, fish demographic assessments, longevity, and aging phenotypes. This aim is accomplished by sampling multiple species, each presenting intra-specific variation in aging response to an aridity gradient transect from north-west Mozambique to southern Malawi. This project will identify the most important aspects of the environment that associate with the largest effect on the rate of aging.
 
 ### Targets of selection in natural populations
+
 The focus of this project is to manipulate environmental cues in controlled conditions that select for the rate of aging in the wild. By integrating wild sample data with controlled-environment data, we hope to identify ecologically relevant aspects of the mechanism of aging. We use omic tools to localize target gene networks for selection on aging rate in natural populations. For example, whole genome sequencing, association and transcriptional analysis in fish of arid-wet ecotypes at multiple time points each year will help identify genes and pathways overlapping at least two methods to identify candidate mechanisms for functional testing. In parallel, we quantify age-related tissue damage and performance declines with age indicators of functional aging (including systemic biomarkers of aging such as advanced glycation products, and gut homeostasis in fish from low vs high mortality environments). Further interest for potential collaboration includes generating metabolomic and microbiome profiles for each population at various stages of life. These intermediate traits are closer to the whole-organism aging phenotype, and will be useful for integration with genetic and environmental cues for variation in the rate of aging.
 
 ### Mechanisms of aging in the lab vs in the wild
+
 I will use draw-down experiments to gradually control water level in mesocosms to mimic pool drying in the wild and evaluate fish for the aging phenotype, life history, and markers of functional aging. In controlled-environments (tanks), I will test age-specific effects of water temperature (18 oC vs 28 oC) on muscle performance, age-related damage, and longevity. Transcriptomic profiling and DNA analysis will be carried out at juvenile, middle age, and old age to identify the genomic basis of the aging rate phenotype.
 
-{{<figure src="/img/EE_design.png" width="85%" title="Schematic of the different diet regimes for our experimental evolution treatments. These are designed to select for different resource allcocation strategies." lightbox="true" >}} 
-
-We are currently, 1) tracking genotype and haplotype frequency changes across the genome over evolutionary time, and 2) tracking a suite of allocation phenotypes such as genome-wide gene expression, the complete energy budget, lifespan, and weekly fecundity. As these phenotypes evolve in response to these treatments, we are characterizing corresponding changes across the genotype to phenotype map, providing an integrated, unprecedented look at microevolution in action. You can see an example of this evolution happening by looping the video below, which shows how haplotype frequencies change across one chromosome arm in one selection line over several generations.  
-{{< video library="1" src="Haplo.mp4" controls="yes" >}}
