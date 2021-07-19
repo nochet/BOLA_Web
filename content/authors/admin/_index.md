@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Enoch Ng'oma
+name: BOLA Lab
 
 # Username (this should match the folder name)
 authors:
-- Ng'oma
+- admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Biology of Longevity & Aging
 
 # Organizations/Affiliations
 organizations:
-- name: ""
-  url: ""
+- name: "University of Missouri"
+  url: "https://biology.missouri.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -52,7 +52,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Lab Info
 ---
 
 ### About me
