@@ -5,11 +5,16 @@
     <link>/author/</link>
       <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/author/avatar_hu9210d985e3cce364a130fe3bbdc4b3e4_2313038_270x270_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/author/</link>
+    </image>
+    
+  </channel>
+</rss>
+  <link>/author/</link>
     </image>
     
     <item>
