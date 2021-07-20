@@ -55,6 +55,6 @@ user_groups:
 - Lab Info
 ---
 
-### About me
+### About the lab
 
-I am an Assistant Professor in the [Division of Biological Sciences](https://biology.missouri.edu/) at the University of Missouri. Before joining the faculty in 2021, I was a postdoctoral scholar in [Elizabeth King's lab](https://elizabethking.org/) at [MU](https://missouri.edu/). I received my Dr. rer. nat. in Genetics from [Friedrich-Schiller University]( https://www.uni-jena.de/en) working with [Alessandro Cellerino]( https://www.sns.it/en/biology-laboratory) at the [Leibniz Institute on Aging – Fritz Lipmann Institute in Jena](https://www.leibniz-gemeinschaft.de/en/institutes/leibniz-institutes-all-lists/leibniz-institute-on-aging-fritz-lipmann-institute.html) in Jena, Germany where I worked on quantitative genetics of aging using the annual killifish, Nothobranchius furzeri. I completed my MSc. in Evolution and Biodiversity at the [Natural History Museum]( https://www.nhm.uio.no/english/), [University of Oslo](https://www.uio.no/english/). I received my BEd. In Biology at the [University of Malawi]( http://www.unima.mw/). 
+The Biology of Longevity and Aging (BOLA) Lab studies genetic mechanisms of differential aging rates focusing mainly on free-living and non-lab adapted populations. We apply integrative approaches across biological scales, environments, and species, to longitudinal studies of species response to habitat conditions.
