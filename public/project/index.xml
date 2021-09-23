@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ng&#39;oma Lab</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>1.	1.	Mechanism of aging rate in controlled conditions</title>
+      <link>/project/mechsagelab/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mechsagelab/</guid>
+      <description>&lt;p&gt;African killifish have an annual life cycle. They are adapted to seasonal ephemeral water pools available only a few months each year, and remain desiccated for much of the year. This has placed an evolutionary constraint to complete an entire non-egg phase in a short time. Consequently, fish grow and mature rapidly to reproduce and leave eggs to overwinter in in the soil in diapause before the habitat disappears. The length of this naturally compressed lifespan varies widely within and between species, correlates with hydroperiod and the pace of aging. It presents a natural experiment suitable to probe the mechanisms of aging in multiple populations and species in ecological settings. We predict that variations in the rate of aging are influenced either by 1) the rate at which water temperature increases over the season, and/or 2) the rate at which pool size/water column depth decreases over the course of the habitat.&lt;/p&gt;
+&lt;p&gt;To understand the agents and genomic targets of selection on aging rate in wild fish, we perform longitudinal comparative studies of habitat conditions and how these intersect with the rate of expression of the aging phenotype at molecular, physiological and behavioral levels. We follow twelve pools in arid vs humid habitats for each of four species: a) arid habitats tend to receive less annual precipitation, and pools dry faster, leading selection for shorter lifespan, earlier onset of aging, and a faster pace of aging; b) humid habitats select for longer lifespans and a slower pace of aging. Directly observing environmental dynamics in these ecotypes, measuring age-related traits, and integrating these data with omic data will enable us to propose novel mechanisms or refine existing mechanisms from an eco-genomics perspective.&lt;/p&gt;
+&lt;hr&gt;
+&lt;figure&gt;
+&lt;img src=&#34;/img/LearnMem.png&#34; &gt;
+&lt;figcaption&gt;A genome scan showing QTL for both place learning and place memory with several QTL shared between both traits.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Critical environmental cues</title>
+      <link>/project/agehydroecology/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/agehydroecology/</guid>
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://scholar.google.com/citations?user=ahv9RywAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Bosco Rusuwa&lt;/a&gt; (University of Malawi),
+and &lt;a href=&#34;https://scholar.google.com/citations?user=KC8PJlsAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Maggie Munthali&lt;/a&gt; (MwAPata Institute) (&lt;a href=&#34;https://www.mwapata.mw/),&#34;&gt;https://www.mwapata.mw/),&lt;/a&gt; we will conduct a longitudinal study (over 3 years) to identify components of the environment which cue for changes in the rate of aging in natural conditions.&lt;/p&gt;
+&lt;p&gt;A recent study addressed the question of how differential aging evolves in wild killifish colonizing ecologically different habitats. From this study, the hypothesis is that faster aging results from increased mutational loads triggered by episodes of relaxed selection, which is in agreement with evolutionary theory of aging. From a shorter-term perspective, we appreciate that water temperature increases gradually during pool desiccation, water chemistry may be more concentrated late and early in the season, and biotic factors including predation are involved. Which of these, or sub-components thereof, are critical triggers of the aging rate response?&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img src=&#34;/img/cui_bottleneck.png&#34;&gt;
+    &lt;figcaption&gt;The schematic shows how historical demographic dynamics are likely to have let to the evolution of shorter lifespans and faster aging in dryer harsher conditions.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We will identify variously sized ephemeral pools in arid and wet climatic regions for multiple species of killifish to monitor over a 3 year period. We will collect hydro-ecological, water quality, and benthic microbial data. Analysis of these data will help generate hypotheses and predictions that will later be tested in more controlled experiments.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;/mal_moz_map.png&#34;&gt;
+&lt;figcaption&gt;We will follow pools in wet vs dry regions focusing on four species in Malawi, Mozambique and Zimbabwe.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Field-Lab aging genomics</title>
+      <link>/project/mechsagecompgenomics/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mechsagecompgenomics/</guid>
+      <description>&lt;p&gt;I will use draw-down experiments to gradually control water level in mesocosms to mimic pool drying in the wild and evaluate fish for the aging phenotype, life history, and markers of functional aging. In controlled-environments (tanks), I will test age-specific effects of water temperature (18 oC vs 28 oC) on muscle performance, age-related damage, and longevity. Transcriptomic profiling and DNA analysis will be carried out at juvenile, middle age, and old age to identify the genomic basis of the aging rate phenotype.&lt;/p&gt;
+&lt;hr&gt;
+&lt;figure&gt;
+&lt;img src=&#34;/img/LearnMem.png&#34; &gt;
+&lt;figcaption&gt;A genome scan showing QTL for both place learning and place memory with several QTL shared between both traits.&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of aging rate in wild populations</title>
+      <link>/project/mechsagewild/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/mechsagewild/</guid>
+      <description>&lt;p&gt;The focus of this project is to manipulate environmental cues in controlled conditions that select for the rate of aging in the wild. By integrating wild sample data with controlled-environment data, we hope to identify ecologically relevant aspects of the mechanism of aging. We use omic tools to localize target gene networks for selection on aging rate in natural populations. For example, whole genome sequencing, association and transcriptional analysis in fish of arid-wet ecotypes at multiple time points each year will help identify genes and pathways overlapping at least two methods to identify candidate mechanisms for functional testing. In parallel, we quantify age-related tissue damage and performance declines with age indicators of functional aging (including systemic biomarkers of aging such as advanced glycation products, and gut homeostasis in fish from low vs high mortality environments). Further interest for potential collaboration includes generating metabolomic and microbiome profiles for each population at various stages of life. These intermediate traits are closer to the whole-organism aging phenotype, and will be useful for integration with genetic and environmental cues for variation in the rate of aging.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

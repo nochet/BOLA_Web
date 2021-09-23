@@ -1,44 +1,36 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: false
 author_notes:
-- Equal contribution
-- Equal contribution
+- Equal contribution: false
+- Equal contribution: false
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Enoch Ng'oma
+- Patricka Williams-Simon
+- Aniqa Rahman
+- Elizabeth G. King
+date: "2020-01-28"
+doi: "10.1186/s12864-020-6467-6"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*BMC Genomics, 21*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
+publishDate: "2020-01-28T00:00:00Z"
+slides: false
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+title: Diverse biological processes coordinate the transcriptional response to nutritional changes in a Drosophila melanogaster multiparent population
+url_code: "https://github.com/nochet/BasePop_RNAseq"
+url_dataset: "https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA557551"
+url_pdf: https://doi.org/10.1186/s12864-020-6467-6
+url_poster: false
+url_project: false
+url_slides: false
+url_source: false
+url_video: false
 ---
 
 {{% callout note %}}
@@ -50,3 +42,6 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+

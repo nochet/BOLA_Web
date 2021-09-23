@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Selected Publications
 subtitle: ''
 
 content:
@@ -38,7 +38,7 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](https://publons.com/researcher/3390576/enoch-ngoma/publications/).
 {{% /callout %}}
 
 See [my Google Scholar page](https://scholar.google.com/citations?user=58aTNpUAAAAJ&hl=en) for an up-to-date list of the lab's publications.
