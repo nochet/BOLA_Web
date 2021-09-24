@@ -57,4 +57,4 @@ user_groups:
 
 ### About the lab
 
-The Biology of Longevity and Aging (BOLA) Lab studies genetic mechanisms of differential aging rates in free-living and non-lab adapted natural populations. To correctly interpret laboratory studies, we seek to understand the aging population response to habitat conditions using a longitudinal framework. We apply integrative approaches across biological scales, environments, and species. Our experiments are performed in the field, in open mesocosms, and complemented with controlled experiments.
+The Biology of Longevity and Aging (BOLA) Lab research focuses on understanding the genetic mechanisms and evolution of differential aging rates in free-living and non-lab adapted natural populations. To correctly interpret laboratory studies, we seek to understand the aging population response to habitat conditions using a longitudinal framework. We apply integrative approaches across biological scales, environments, and species. Our experiments are performed in the field, in open mesocosms, and complemented with controlled experiments.

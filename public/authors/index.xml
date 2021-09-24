@@ -12,32 +12,5 @@
       <link>/authors/</link>
     </image>
     
-    <item>
-      <title></title>
-      <link>/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/</guid>
-      <description>
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;labgroup.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;75%&#34; /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;Most animals experience progressive declines in whole-organism performance with age. Aging, in contrast with other life history traits, constrains fitness and longevity. Organisms typically tend to age at different rates within and among species. The BoLA Lab seeks to understand environmental correlates, genetic and evolutionary mechanisms of differential aging rates in ecological populations. We use systems approaches to integrate biological, environmental (field and laboratory), and multi-species data to understand spatial and temporal selective triggers and targets of aging rates.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
