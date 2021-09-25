@@ -4,7 +4,11 @@
     <title>Ng&#39;oma Lab</title>
     <link>/author/</link>
       <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <description>Ng&#39;oma Lab</description>
+=======
+    <description>Academic</description>
+>>>>>>> 11ac7760d03e8fc889c1d0307a7e2610ae000cfe
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/avatar_hu9210d985e3cce364a130fe3bbdc4b3e4_2313038_270x270_fill_lanczos_center_2.png</url>
