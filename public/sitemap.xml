@@ -20,40 +20,24 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>/project/age-mechs-lab/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/labvalues/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/age-hydro-ecology/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/project/age-mechs-wild/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/age-mechs-compgen/</loc>
-=======
-    <loc>/project/comparativegenomics/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/mechsagedros/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/mechsagekilli/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/labvalues/</loc>
->>>>>>> 3be549684ac6d1be68668920c40cee37e4e624f2
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-<<<<<<< HEAD
-    <loc>/project/age-mechs-wild/</loc>
+    <loc>/project/age-mechs-lab/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
-=======
->>>>>>> 3be549684ac6d1be68668920c40cee37e4e624f2
     <loc>/project/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -114,16 +98,13 @@
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/admin/</loc>
+  </url><url>
+    <loc>/author/</loc>
+  </url><url>
+    <loc>/author/</loc>
+  </url><url>
+    <loc>/publication/conference-paper/q-index/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>

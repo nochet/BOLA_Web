@@ -1,5 +1,5 @@
 ---
-title: "Critical Conditions"
+title: "Critical conditions"
 summary: " "
 abstract: ""
 date: 2021-09-01

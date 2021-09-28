@@ -9,42 +9,32 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+    
   - name: Projects
     url: '#projects'
     weight: 20
+    
   - name: People
     url: '#people'
     weight: 30
-<<<<<<< HEAD
+    
   - name: Publications
     url: '#featured'
     weight: 40
+    
   - name: Courses
     url: courses/
     weight: 50
+    
   - name: Lab Values
     url: labvalues/
     weight: 60
+    
   - name: Contact
     url: '#contact'
     weight: 70
+    
   - name: Posts
     url: '#posts'
     weight: 80
-=======
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-  - name: People
-    url: '#people'
-    weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  # - name: Courses
-  #   url: courses/
-  #   weight: 60
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 70
->>>>>>> 11ac7760d03e8fc889c1d0307a7e2610ae000cfe
+
